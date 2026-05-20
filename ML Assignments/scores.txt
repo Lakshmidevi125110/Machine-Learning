@@ -1,0 +1,5 @@
+Lakshmi,0
+Lakshmi,420
+Devi,180
+Rani,100
+Suman,210
